@@ -1,26 +1,26 @@
-// function sayHello() {
-//   console.log("Hello JavaScript");
-// }
+function sayHello() {
+  console.log("Hello JavaScript");
+}
 
-// sayHello();
-
-
-
-// function add(a, b) {
-//   console.log(a + b);
-// }
-
-// add(5, 10);
+sayHello();
 
 
 
+function add(a, b) {
+  console.log(a + b);
+}
 
-// function multiply(x, y) {
-//   return x * y;
-// }
+add(5, 10);
 
-// let result = multiply(4, 3);
-// console.log(result);
+
+
+
+function multiply(x, y) {
+  return x * y;
+}
+
+let result = multiply(4, 3);
+console.log(result);
 
 
 
